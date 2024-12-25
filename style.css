@@ -1,3 +1,12 @@
-.navbar {
-  list-style-type: none;
+* {
+  margin: 10;
+  padding: 2;
+  box-sizing: border-box;
+}
+
+.poem {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
